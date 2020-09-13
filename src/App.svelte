@@ -7,9 +7,9 @@
 </script>
 
 <style>
-    h1 {
+    /* h1 {
         margin-top: 0;
-    }
+    } */
 
     main {
         display: flex;
@@ -69,7 +69,7 @@
         height: 45px;
         padding-left: 10px;
         width: 80%;
-        overflow: scroll;
+        overflow: auto;
     }
 </style>
 
